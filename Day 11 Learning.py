@@ -10,14 +10,17 @@ print(Learn)
 
 for v in name:
     print(v)
-
-    quotes = """ Success is not final,
+quotes = """ Success is not final,
 failure is not fatal:
 it is the courage to continue that counts."""
 
 print(quotes)
 
-complete = """ I finished day 11 as well ."""
-print("Which day of the challange did you finish today?")
+complete = """ \nI finished day 11 as well ."""
+
+print("\nWhich day of the challenge did you finish today?")
 
 print(complete)
+ 
+for i in complete:
+    print(i)
