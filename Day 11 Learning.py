@@ -16,5 +16,8 @@ failure is not fatal:
 it is the courage to continue that counts."""
 
 print(quotes)
-for y in quotes:
-    print(y)
+
+complete = """ I finished day 11 as well ."""
+print("Which day of the challange did you finish today?")
+
+print(complete)
