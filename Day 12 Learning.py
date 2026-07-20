@@ -4,3 +4,6 @@ he = len("piyush")
 print(he)
 B = "Hey i am learning python language"
 print(len(B))
+
+v = "Hello, world "
+print(len(v))
