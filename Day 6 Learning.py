@@ -16,9 +16,9 @@ print(type(python_pasand_hai))
 meri_fav_food = ["Mango", "Pizza", "Samosa"]
 
 print("\nmera favourite khana;",meri_fav_food)
-print("Food ka data type;",type(meri_fav_food))
+print("\nFood ka data type;",type(meri_fav_food))
 
 hafte_ke_din = (1, 2, 3, 4, 5, 6, 7)
 
-print("Hafte me itne din hote hai;",hafte_ke_din)
-print("Din ka data type;",type(hafte_ke_din))
+print("\nHafte me itne din hote hai;",hafte_ke_din)
+print("\nDin ka data type;",type(hafte_ke_din))
