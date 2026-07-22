@@ -1,4 +1,5 @@
-a = 2434353534
+a = 24343
+print(a)
 naam = "piyush shrivastava"
 age = 18
 python_pasand_hai = True
