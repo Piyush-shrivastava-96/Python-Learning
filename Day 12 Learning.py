@@ -29,3 +29,5 @@ print(the_word[9:2])
 
 print(the_word[4:8:2])
 print(the_word[3:9:-2])
+print(the_word[3:9:-1])
+
