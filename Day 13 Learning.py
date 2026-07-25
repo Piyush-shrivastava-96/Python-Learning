@@ -1,8 +1,10 @@
+#    "Strings are immutable"
+
 N = "piyush shrivastava"
 print(N.upper())  #Sabko CAPITAL letters me badalta hai.
 print(N.lower())  #Sabko small letters me badalta hai.
 
-a = "      piyush bhai      "
+a = "      piyush bhai     "
 print(a.strip())   #Shuruat aur aakhiri ke faltu spaces ko hata deta hai.
 
 q = "Rohan??????????????????????"
