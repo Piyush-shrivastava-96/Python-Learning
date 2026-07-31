@@ -23,3 +23,16 @@ hafte_ke_din = (1, 2, 3, 4, 5, 6, 7)
 
 print("\nHafte me itne din hote hai;",hafte_ke_din)
 print("\nDin ka data type;",type(hafte_ke_din))
+
+
+print("Hello my name is piyush!")
+number1=50
+number2=39
+total = number1 + number2
+print("dono ko jodakar aya:",total)
+print(total)
+print("B Tech AI/ML\nOriental collage Bhopal")
+# Hey piyush,
+print("Hey i am\' a \"good boy\"\nand this viewer is also a good boy")
+print("Hey", 67, sep="~", end="009\n")
+print("piyush bhai")
