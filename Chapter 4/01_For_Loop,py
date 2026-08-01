@@ -1,0 +1,35 @@
+for i in range(7):
+    print(i, end=", ")
+
+print("\n")
+name = ['Pitazi' , 'Maa ji' ,'Sister' , 'Brother' , 'Grandpa' , 'Grandma' , 'Moshi ji' , 'Mosha ji' , 'Mama ji' , 'Mami ji']
+for l in name:
+    print(l, end=", ")
+
+print("\n")
+
+for k in range(111, 1, -12):
+    print(k+1, end=", ")
+
+print("\n")
+for q in range(0, 100, 10):
+    print(q, end=", ")
+
+
+print("\n")
+for y in range(100):
+    if y == 97:
+        print("49", "🤓[Hello mene 98 ko 2 se devide kiya hai]🫡", end=", ")
+    else:
+        print(y+1, end=", ")
+
+print("\n")
+
+food = {'chai': 20, 'coffee': 50, 'juice': 80, 'samosa': 30}
+for k, v in food.items():
+    print(k, "Ki Keemat Hai:" , v,"₹. \nThank you Sir!🙏")
+
+
+
+
+
