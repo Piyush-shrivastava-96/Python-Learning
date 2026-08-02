@@ -52,10 +52,10 @@ match q:
              match next_order:
                   case "chai" | 'coffee':
                        print("\nOkay sir, Hot chai is coming right up!")
-                  
+                       total_bill += food[next_order]
                   case "juice":
                        print("\nOkay sir, Fresh juice is coming right up!")
-                  
+                       total_bill += food[next_order]
                   case "pizza" | 'samosa':
                        print("\nOkay sir, Delicious pizza is coming right up!")
                        total_bill += food[next_order]
