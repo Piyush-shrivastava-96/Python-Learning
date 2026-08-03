@@ -9,6 +9,15 @@ while q > 0:
     q = q - 1
 
 
+s = 9
+while s > 0:
+    print(s)
+    s = s - 2
+else:
+    print("Loop is over!")
+
+print("\n")
+
 print("Aapka SBI ATM me swagt hai ")
 while True:
     q = int(input("Aapko kitne pese nikalne hai 'Amount Dale';"))
